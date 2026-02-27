@@ -31,6 +31,7 @@ and interpretable risk prediction.
 -   Pandas\
 -   NumPy\
 -   Matplotlib
+-   Github
 
 ------------------------------------------------------------------------
 
